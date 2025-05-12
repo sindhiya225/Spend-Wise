@@ -1,0 +1,52 @@
+{
+    "expenses": [
+        {
+            "id": 1,
+            "amount": 225.0,
+            "category": "Food",
+            "date": "2025-07-28",
+            "description": ""
+        },
+        {
+            "id": 4,
+            "amount": 1000.0,
+            "category": "Groceries",
+            "date": "2025-11-18",
+            "description": ""
+        },
+        {
+            "id": 5,
+            "amount": 55000.0,
+            "category": "College Fee",
+            "date": "2025-11-29",
+            "description": ""
+        },
+        {
+            "id": 6,
+            "amount": 2250.0,
+            "category": "Dress",
+            "date": "2025-12-05",
+            "description": ""
+        },
+        {
+            "id": 8,
+            "amount": 150000.0,
+            "category": "Bike ",
+            "date": "2025-12-15",
+            "description": ""
+        },
+        {
+            "id": 9,
+            "amount": 70000.0,
+            "category": "Laptop",
+            "date": "2025-12-31",
+            "description": ""
+        }
+    ],
+    "income": 225000.0,
+    "spending_limits": {
+        "daily": 500.0,
+        "monthly": 25000.0,
+        "yearly": 1000000.0
+    }
+}
